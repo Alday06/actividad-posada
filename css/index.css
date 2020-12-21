@@ -1,0 +1,10 @@
+body{
+    background-image: url("../images/fondo.jpg");
+}
+img{
+    cursor: url("../images/palo.png"), auto;
+}
+#message{
+    display: none;
+}
+
